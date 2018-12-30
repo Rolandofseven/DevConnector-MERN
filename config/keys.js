@@ -1,4 +1,1 @@
-module.exports = {
-  mongoURI: "",
-  secretOrKey: ""
-};
+module.exports = {};
